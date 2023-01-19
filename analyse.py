@@ -84,8 +84,8 @@ average_in_set_2_out = sum(set_2_out_counts)/len(set_2_out_counts)
 
 print("Average inside set 1: ", average_in_set_1_in)
 print("Average outside set 1: ", average_in_set_1_out)
-print("Average outside set 1: ", average_in_set_2_in)
-print("Average inside set 1: ", average_in_set_2_out)
+print("Average outside set 2: ", average_in_set_2_in)
+print("Average inside set 2: ", average_in_set_2_out)
 
 
 
